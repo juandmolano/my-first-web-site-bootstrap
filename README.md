@@ -36,7 +36,7 @@ This project is an example of a basic website created with Bootstrap. Here's an 
 
 Here are some previews of our platform:
 
-![Screenshot 1](../img/screenshot1.png)
+![Screenshot 1](screenshot1.png)
 
 ## Contact
 
