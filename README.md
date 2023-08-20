@@ -1,41 +1,46 @@
-# My First Bootstrap WebSite
+# My First Bootstrap Web Site
 
-This is a sample web project showcasing the usage of Bootstrap for building a responsive website. The project includes various components and features commonly used in web development.
+This is a web project developed using Bootstrap to create an interactive website. The site includes elements like a navigation bar, a carousel, featured game cards, featured Amiibo figures, and more.
+
+## Project Summary
+
+This project is an example of a basic website created with Bootstrap. Here's an overview of the key sections of the project:
+
+- **Navigation Bar**: The top navigation bar allows users to easily navigate the site. It includes links to the Home, Summer Pack, About, Register, and Sign-in pages.
+
+- **Carousel**: The carousel on the homepage displays attractive images and automatically transitions to highlight relevant content.
+
+- **Ribbon**: A special section displays a highlighted message, such as Samson's birthday in this example.
+
+- **Featured Games**: This section showcases cards for featured Animal Crossing games with images and descriptions.
+
+- **Featured Amiibo Figures**: Images and names of featured Amiibo figures are displayed.
+
+- **Play Nintendo**: A section that showcases cards of related content featuring Isabelle and friends on Play Nintendo.
+
+- **Footer**: The footer includes a Customer Support button and provides copyright information and important links.
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- Bootstrap 4
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `[git clone https://github.com/your-username/your-repo.git](https://github.com/juandmolano/my-first-web-site-bootstrap.git)`
-2. Open the project folder.
-3. Open the `index.html` file in your preferred web browser.
-
-## Features
-
-- Responsive navigation bar with logo and menu items.
-- Carousel with multiple slides showcasing different images.
-- Ribbon section displaying a birthday message.
-- Games section with featured Animal Crossing games.
-- Amiibos section is displaying featured Amiibo figures.
-- "Play Nintendo" section with cards and images.
-- Footer section with customer support information.
-
-## Usage
-
-Feel free to use this project as a starting point for your website. Customize the content, images, and styling as per your requirements. Bootstrap classes and components can be modified or extended to suit your design needs.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open a point on the GitHub repository.
+- Bootstrap
+- JavaScript (for interactive features)
 
 ## Acknowledgments
 
 - This project was created as a learning exercise and follows the structure and design principles of Bootstrap.
 - Images used in this project are for demonstration purposes only and are not intended for commercial use.
 
+## Screenshots
+
+Here are some previews of our platform:
+
+![Screenshot 1](./img/screenshot1.png)
+
+## Contact
+
+For more information, feel free to get in touch with us:
+
+- LinkedIn: [Juan Diego Molano](https://www.linkedin.com/in/juandmolanof/)
+- Website: [www.juanmolano.netlify.app](https://juanmolano.netlify.app/)
